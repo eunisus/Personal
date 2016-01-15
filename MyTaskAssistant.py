@@ -3,7 +3,7 @@
 import sys
 import datetime
 import time
-import re # Regular Expressions
+import re
 import logging
 from logging.handlers import TimedRotatingFileHandler
 
